@@ -1,0 +1,25 @@
+.boxComments {
+}
+.comment {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 2% 0;
+}
+.commentTxt {
+  background-color: #dcdcdc;
+  padding: 2%;
+  border-radius: 20px;
+  width: 100%;
+}
+.commentName {
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 1%;
+}
+.commentContent {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #797979;
+}
